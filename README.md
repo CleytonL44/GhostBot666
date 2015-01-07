@@ -94,7 +94,7 @@
     "jointime": "/me [@%%NAMEFROM%%] @%%USERNAME%% esteve nessa delicia por %%TIME%%.",
     "kickrank": "/me [@%%NAME%%] Você não pode kickar alguém do mesmo rank ou superior!",
     "kick": "[@%%NAME%%], @%%USERNAME%% você está sendo kickado da comunidade por %%TIME%% minutos.",
-    "kill": "/me Eu voltarei, e vou comer seu cu com sal seu arromba...do.............",
+    "kill": "/me Desligando esse bot bem massa...",
     "rouletteleave": "/me O viadinho do @%%NAME%% desistiu da roleta! Arregão.",
     "songlink": "/me [@%%NAME%%] Link para o lixo atual: %%LINK%%",
     "usedlockskip": "/me [%%NAME%% usou 'lockskip'. É super efetivo neste tipo de pokemon.]",
